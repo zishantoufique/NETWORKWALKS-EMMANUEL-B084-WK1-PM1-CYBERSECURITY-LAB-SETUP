@@ -45,7 +45,7 @@ I configured Kali Linux as my primary virtual machine and worked on virtual netw
 | Network Address | 10.0.0.0/24 |
 | Kali IP Address | 10.0.0.2/24 |
 | Default Gateway | 10.0.0.1 |
-| DNS Servers Configured | 8.8.8.8, 1.1.1.1 |
+| DNS Servers Configured | 8.8.8.8|
 
 ### Network Configuration
 
@@ -208,7 +208,7 @@ Any future penetration-testing activities will be conducted only on systems that
 
 ## 👤 11. Author
 
-**Name:** Your Name
+**Name:** Zishan Toufique
 
 **Field:** Cybersecurity
 
