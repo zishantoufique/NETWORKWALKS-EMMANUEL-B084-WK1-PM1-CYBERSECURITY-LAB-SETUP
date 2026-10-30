@@ -24,6 +24,7 @@ I configured Kali Linux as my primary virtual machine and worked on virtual netw
 - Document technical challenges and solutions.
 
 ## 💻 3. My Laptop Specifications
+<img width="1280" height="800" alt="kali-network-setting" src="https://github.com/user-attachments/assets/0e1b61b0-6fdd-4454-a322-a02449323635" />
 
 | Component | Configuration |
 |---|---|
@@ -37,7 +38,7 @@ I configured Kali Linux as my primary virtual machine and worked on virtual netw
 | Virtual Disk | Approximately 42 GB |
 
 ## 🌐 4. Virtual Network Configuration
-
+<img width="1160" height="814" alt="laptop-specification" src="https://github.com/user-attachments/assets/f6ba5236-d0df-42c4-974c-24b62f287f53" />
 | Setting | Configuration |
 |---|---|
 | Network Type | NAT Network |
@@ -58,6 +59,7 @@ The network interface was checked using:
 ```bash
 ip -4 addr show eth0
 ```
+<img width="1280" height="800" alt="ip-configuration" src="https://github.com/user-attachments/assets/104cf348-4080-4ca1-beda-ec3eb64aab57" />
 
 The interface showed the configured IPv4 address.
 
@@ -65,9 +67,14 @@ The interface showed the configured IPv4 address.
 
 ### Step 1: Install Oracle VirtualBox
 
+<img width="1535" height="811" alt="virtualbox-version" src="https://github.com/user-attachments/assets/4cb1a484-15a7-48cb-9f3a-3cd1daccf064" />
+
 Installed Oracle VirtualBox 7.2.22 on my Windows 11 laptop.
 
+
 ### Step 2: Download and Install Kali Linux
+<img width="1280" height="800" alt="kali-desktop" src="https://github.com/user-attachments/assets/ff847245-d801-4408-b076-91165f9bcde6" />
+
 
 Downloaded the official Kali Linux 2026.3 installer ISO and installed it as a virtual machine.
 
@@ -83,6 +90,7 @@ Configured the virtual machine with:
 - Kali Linux 2026.3
 
 ### Step 4: Configure NAT Network
+<img width="1535" height="811" alt="nat-network" src="https://github.com/user-attachments/assets/78b4ddec-4637-4afe-9c55-c014855523ad" />
 
 Created a NAT Network named `NATNetwork` with the IPv4 network:
 
@@ -91,6 +99,7 @@ Created a NAT Network named `NATNetwork` with the IPv4 network:
 Configured the Kali VM network adapter to use this NAT Network.
 
 ### Step 5: Configure Kali Linux IP Address
+<img width="1280" height="800" alt="kali-network-setting" src="https://github.com/user-attachments/assets/432ad9c0-369e-4b68-8a48-7afb33ff79b0" />
 
 Configured and verified the Kali network interface with:
 
