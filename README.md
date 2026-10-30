@@ -24,7 +24,7 @@ I configured Kali Linux as my primary virtual machine and worked on virtual netw
 - Document technical challenges and solutions.
 
 ## 💻 3. My Laptop Specifications
-<img width="1280" height="800" alt="kali-network-setting" src="https://github.com/user-attachments/assets/0e1b61b0-6fdd-4454-a322-a02449323635" />
+<img width="1160" height="814" alt="laptop-specification" src="https://github.com/user-attachments/assets/f6ba5236-d0df-42c4-974c-24b62f287f53" />
 
 | Component | Configuration |
 |---|---|
@@ -38,7 +38,8 @@ I configured Kali Linux as my primary virtual machine and worked on virtual netw
 | Virtual Disk | Approximately 42 GB |
 
 ## 🌐 4. Virtual Network Configuration
-<img width="1160" height="814" alt="laptop-specification" src="https://github.com/user-attachments/assets/f6ba5236-d0df-42c4-974c-24b62f287f53" />
+<img width="1280" height="800" alt="kali-network-setting" src="https://github.com/user-attachments/assets/0e1b61b0-6fdd-4454-a322-a02449323635" />
+
 | Setting | Configuration |
 |---|---|
 | Network Type | NAT Network |
