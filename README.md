@@ -120,10 +120,13 @@ Tested the folder using:
 ```bash
 ls /media/sf_downloads
 ```
+<img width="1280" height="800" alt="shared-folder" src="https://github.com/user-attachments/assets/c9ce9cfc-52de-4316-911c-2d5f8ca3e91f" />
+
 
 Also tested file creation inside the shared folder.
 
 ### Step 7: Configure Clipboard and Drag-and-Drop
+<img width="1533" height="817" alt="bidirectional" src="https://github.com/user-attachments/assets/c3fa7636-9a5d-4924-aa2f-981ecadeca93" />
 
 Enabled bidirectional clipboard and drag-and-drop settings in VirtualBox.
 
@@ -139,6 +142,8 @@ The following commands were used during network troubleshooting.
 | Test internet connectivity | `ping -c 4 8.8.8.8` |
 | Test DNS resolution | `nslookup google.com` |
 | Check DNS configuration | `cat /etc/resolv.conf` |
+<img width="516" height="413" alt="Screenshot 2026-10-30 130028" src="https://github.com/user-attachments/assets/ea65c3bf-c66a-4f1b-b5a3-141d16c92fff" />
+
 
 ### Current Verification Status
 
